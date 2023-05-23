@@ -6,7 +6,7 @@
           <div class="col-sm-12 col-xs-12">
             <q-toolbar-title>
               <img @click="$router.push('/home')" class="cursor-pointer float-left" src="images/logo.png" style="width: 12%"/>
-              <span class="float-left q-mt-xs q-ml-md text-h6 text-weight-bold" style="font-size: 17px;">Comfy</span>
+              <span class="float-left q-mt-xs q-ml-md text-h6 text-weight-bold" style="font-size: 17px;">Comfy </span>
             </q-toolbar-title>
           </div>
           <div class="col-sm-12 col-xs-12 q-mt-md">
