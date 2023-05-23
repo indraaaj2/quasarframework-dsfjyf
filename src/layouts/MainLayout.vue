@@ -1,6 +1,6 @@
 <template>
   <q-layout view="lHh LpR lFf" style="font-family: Lato;"> 
-    <q-header reveal elevated style="background-color: #1f509e;">
+    <q-header reveal elevated style="background-color: pink;">
       <q-toolbar v-if="!$q.platform.is.desktop" class="q-py-sm">
         <div class="row">
           <div class="col-sm-12 col-xs-12">
