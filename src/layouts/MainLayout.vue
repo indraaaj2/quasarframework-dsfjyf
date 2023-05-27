@@ -34,7 +34,7 @@
       </q-toolbar>
       <q-toolbar v-if="$q.platform.is.desktop" class="q-py-sm">
         <!--          <q-btn @click="left = !left" flat round dense icon="menu" class="q-mr-sm" />-->
-        <img @click="$router.push('/')" class="cursor-pointer" src="../assets/logo.png" style="width: 3%"/>
+        <img @click="$router.push('/')" class="cursor-pointer" src="../assets/logo1.png" style="width: 3%"/>
         <q-toolbar-title>
           <span class="float-left q-mt-xs text-h6 text-weight-bold" style="font-size: 17px;">Comfy</span>
           <q-input class="float-left q-ml-xl" style="width: 650px;" square bg-color="white" dense outlined
